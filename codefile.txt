@@ -1,1 +1,3 @@
 Some lines of code...
+
+Changes to solve issue #1.
